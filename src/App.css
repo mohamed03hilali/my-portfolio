@@ -1,0 +1,15 @@
+/* App.css */
+.icon-active {
+    transform: scale(1.3); /* Ajustez la valeur selon votre préférence */
+    transition: transform 0.3s ease; /* Durée et type d'animation */
+  }
+  .icon-transition {
+    transition: transform 0.3s ease;
+  }
+
+  .icon-transition:hover {
+    transform: scale(1.2); /* Agrandissement au survol */
+  }
+  /* App.css */
+
+  
